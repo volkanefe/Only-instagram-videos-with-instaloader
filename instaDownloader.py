@@ -1,6 +1,6 @@
 import instaloader, os
 print("Downloading media")
-profile_name="excel.egitim" # instagram account name
+profile_name="instagram profile name" # instagram account name
 instaloader.Instaloader(
     download_videos=True,
     download_comments=False,
